@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nestle</folder>
+	<filename>nestle_39.jpeg</filename>
+	<path>/home/anupam/workspaces/pycharm/logo detection/data/images/nestle/nestle_39.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nestle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>35</ymin>
+			<xmax>171</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>

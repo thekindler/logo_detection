@@ -1,0 +1,26 @@
+<annotation>
+	<folder>maggi</folder>
+	<filename>maggi_36.jpeg</filename>
+	<path>/home/anupam/workspaces/pycharm/logo detection/data/images/maggi/maggi_36.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maggi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>26</ymin>
+			<xmax>142</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>

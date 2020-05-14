@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kraft_heinz</folder>
+	<filename>kraft_heinz_45.png</filename>
+	<path>/home/anupam/workspaces/pycharm/logo detection/data/images/kraft_heinz/kraft_heinz_45.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kraft_heinz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>57</ymin>
+			<xmax>270</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

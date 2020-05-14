@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coca_cola</folder>
+	<filename>coca_cola_25.jpeg</filename>
+	<path>/home/anupam/workspaces/pycharm/logo detection/data/images/coca_cola/coca_cola_25.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>116</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coca_cola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>164</ymin>
+			<xmax>112</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>
